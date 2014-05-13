@@ -9,10 +9,10 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Pablo López Viqueira"
-BLOG_TITLE = "Just another coder"
+BLOG_TITLE = "Tak30 stuffs"
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://tak30.github.io"
+SITE_URL = "http://tak30.github.io/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
@@ -87,6 +87,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/archive.html', 'Archives'),
         ('/categories/index.html', 'Tags'),
+        ('/stories/about-me.html', 'About me'),
+        ('/stories/contact.html', 'Contact'),
         ('/rss.xml', 'RSS'),
     ),
 }
@@ -329,7 +331,7 @@ COMPILERS = {
                              # the main (the newest) index page (index.html)
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME ="bootstrap3-gradients"
 
 # Color scheme to be used for code blocks. If your theme provides
 # "assets/css/code.css" this is ignored.
