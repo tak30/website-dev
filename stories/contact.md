@@ -8,6 +8,4 @@
 .. type: text
 -->
 
-##Email:
-
 <pablolopezviqueira@gmail.com>

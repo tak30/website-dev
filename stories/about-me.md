@@ -14,15 +14,5 @@ In order to introduce myself, these questions could help.
 
 I am a Computer-Science student from "A Coruña" (Spain).
 
-At present i am in my 3º year of college, in the University of Coruña.
+At present i am in my 4º year of college, in the University of Coruña.
 
-##What languages do you know?
-
-* Python
-* Java 
-* C
-* Android
-* Ocaml
-* C#
-* Pascal
-* Earlang

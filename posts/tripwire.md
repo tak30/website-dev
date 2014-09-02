@@ -254,10 +254,6 @@ http://www.escomposlinux.org/lfs-es/blfs-es-5.0/postlfs/tripwire.html
 
 http://linux.die.net/man/8/tripwire
 
-Licencia del documento:
-========================
-
-#### Este obra cuyo autor es Pablo López viqueira está sujeta a la licencia Reconocimiento-CompartirIgual 4.0 Internacional de Creative Commons. Para ver una copia de esta licencia, visite <http://creativecommons.org/licenses/by-sa/4.0/deed.es_ES.>
 
 [^1]: En este caso la función hash utilizada es MD5.
 
